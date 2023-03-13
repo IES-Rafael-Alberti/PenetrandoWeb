@@ -26,5 +26,7 @@ A continuación se muestra un ejemplo de un código Java simple para validar la 
 
 
 ## **Para mas información**
-- [Testing PATH](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/05-Authorization_Testing/01-Testing_Directory_Traversal_File_Include)
-- [PrevencionPath](https://owasp.org/www-community/attacks/Path_Traversal)
+Estos enlaces contienen información útil sobre la vulnerabilidad de **path traversal**
+>- [Testing PATH](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/05-Authorization_Testing/01-Testing_Directory_Traversal_File_Include)
+>- [PrevencionPath](https://owasp.org/www-community/attacks/Path_Traversal)
+>- [Más información y laboratorios](https://portswigger.net/web-security/file-path-traversal)

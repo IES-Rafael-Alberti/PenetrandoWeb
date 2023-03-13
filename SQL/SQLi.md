@@ -63,7 +63,9 @@ Para que una consulta parametrizada sea efectiva en la prevención de la inyecci
 
 
 ## **Para mas información**
-- [CheatSheetSQLi](https://portswigger.net/web-security/sql-injection/cheat-sheet)
-- [Prevención sqli por parte de OWASP](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
-- [Guía universal OWASP](https://owasp.org/www-pdf-archive/Gu%C3%ADa_de_pruebas_de_OWASP_ver_3.0.pdf)
-- [Testing SQLi](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection)
+Estos enlaces contienen información útil sobre la vulnerabilidad de **inyección SQLi**
+>- [CheatSheetSQLi](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+>- [Prevención sqli por parte de OWASP](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+>- [Guía universal OWASP](https://owasp.org/www-pdf-archive/Gu%C3%ADa_de_pruebas_de_OWASP_ver_3.0.pdf)
+>- [Testing SQLi](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection)
+>- [Más información y laboratorios](https://portswigger.net/web-security/sql-injection)
