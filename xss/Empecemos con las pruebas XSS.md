@@ -1,6 +1,5 @@
 # Empecemos con las pruebas  XSS
 
-# Empecemos con las pruebas  XSS
 
 Muy bien para empezar necesitaremos tener la maquina de DWWA abierta. prodemos tener la maquina atraves de  tryhackme o por docker.
 
