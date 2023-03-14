@@ -104,7 +104,7 @@ También hay una función llamada “generateSessionToken” que se encarga de g
 
 ## XSS stored
 
-![Untitled](xss%2089c3ffeba57145dc9cb6b57f51484e0e/Untitled%203.png)
+![Untitled](/img/xss/xss%2089c3ffeba57145dc9cb6b57f51484e0e/Untitled%203.png)
 
 Este código PHP procesa un formulario de entrada que contiene un mensaje y un nombre de usuario. Si se envía el formulario (el botón “btnSign” es presionado), el código realiza lo siguiente:
 
