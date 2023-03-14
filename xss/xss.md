@@ -109,3 +109,9 @@ También hay una función llamada “generateSessionToken” que se encarga de g
 Este código PHP procesa un formulario de entrada que contiene un mensaje y un nombre de usuario. Si se envía el formulario (el botón “btnSign” es presionado), el código realiza lo siguiente:
 
 Verifica si hay un token Anti-CSRF y comprueba si el token del usuario coincide con el token de sesión almacenado para prevenir ataques CSRF. Recupera el valor de los campos de entrada del formulario, “mtxMessage” y “txtName”. Sanitiza los valores ingresados por el usuario para evitar posibles vulnerabilidades XSS y SQL injection. Para esto, se eliminan las barras invertidas adicionales en el valor del campo y se escapan los caracteres especiales utilizando la función htmlspecialchars. Además, se utiliza la función mysqli_real_escape_string para escapar cualquier carácter especial en la entrada del usuario. Inserta el mensaje y el nombre de usuario en la base de datos utilizando una consulta preparada.
+
+---
+
+## Anexos
+
+
