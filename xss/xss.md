@@ -113,4 +113,13 @@ Verifica si hay un token Anti-CSRF y comprueba si el token del usuario coincide 
 
 ## Anexos
 
+### [Cross-site scripting(XSS)](https://portswigger.net/web-security/cross-site-scripting)
+
+### [XSS Reflected](https://portswigger.net/web-security/cross-site-scripting/reflected)
+
+### [XSS Stored](https://portswigger.net/web-security/cross-site-scripting/stored)
+
+### [XSS DOM](https://portswigger.net/web-security/cross-site-scripting/dom-based)
+
+### [OWASP](https://owasp.org/www-community/attacks/xss/)
 
