@@ -1,9 +1,9 @@
 # Empecemos con las pruebas  XSS
 
 
-Muy bien para empezar necesitaremos tener la maquina de DWWA abierta. prodemos tener la maquina atraves de  tryhackme o por docker.
+Muy bien para empezar necesitaremos tener la maquina de DVWA abierta. prodemos tener la maquina atraves de  tryhackme o por docker.
 
-Vamos a iniciar por XSS reflect, acordarse que en la maquina de DWWA de poner el modo de seguridad en nivel low para que funcione las pruebas que vamos a hacer.
+Vamos a iniciar por XSS reflect, acordarse que en la maquina de DVWA de poner el modo de seguridad en nivel low para que funcione las pruebas que vamos a hacer.
 
 ![Untitled](/img/xss/Empecemos%20con%20las%20pruebas%20XSS%20b48350b9fcd2416eab21cfe1b29a4529/Untitled.png)
 
