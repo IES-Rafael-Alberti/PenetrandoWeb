@@ -6,7 +6,7 @@ Muy bien para empezar necesitaremos tener la maquina de DWWA abierta. prodemos t
 
 Vamos a iniciar por XSS reflect, acordarse que en la maquina de DWWA de poner el modo de seguridad en nivel low para que funcione las pruebas que vamos a hacer.
 
-![Untitled](Empecemos%20con%20las%20pruebas%20XSS%20b48350b9fcd2416eab21cfe1b29a4529/Untitled.png)
+![Untitled](/img/xss/Empecemos%20con%20las%20pruebas%20XSS%20b48350b9fcd2416eab21cfe1b29a4529/Untitled.png)
 
 Luego nos iremos al apartado XSS Reflected, aqui haremos primero una prueba muy simple.
 
