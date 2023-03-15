@@ -16,7 +16,9 @@
 
 # File Upload y Path Traversal
 
-## [Path todo lo Referencia](https://github.com/IES-Rafael-Alberti/PenetrandoWeb/tree/main/PATH)
+## [Path Traversal Referencia](https://github.com/IES-Rafael-Alberti/PenetrandoWeb/blob/main/PATH/PathTra.md)
+
+## [Path Traversal Explotación](https://github.com/IES-Rafael-Alberti/PenetrandoWeb/blob/main/PATH/Explotaci%C3%B3nPath.md)
 
 ## [File Upload Referencia](https://github.com/IES-Rafael-Alberti/PenetrandoWeb/blob/main/File%20Upload/File%20Upload.md)
 
