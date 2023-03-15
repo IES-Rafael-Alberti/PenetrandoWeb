@@ -12,6 +12,8 @@
 
 ## [SQLI Explotación](https://github.com/IES-Rafael-Alberti/PenetrandoWeb/blob/main/SQL/Explotaci%C3%B3nSQLi.md)
 
+## [Página para explotación](https://pw-ies-rafaelalberti.000webhostapp.com/index.php)
+
 # File Upload y Path Traversal
 
 ## [Path todo lo Referencia](https://github.com/IES-Rafael-Alberti/PenetrandoWeb/tree/main/PATH)
@@ -19,3 +21,4 @@
 ## [File Upload Referencia](https://github.com/IES-Rafael-Alberti/PenetrandoWeb/blob/main/File%20Upload/File%20Upload.md)
 
 ## [File Upload Explotación](https://github.com/IES-Rafael-Alberti/PenetrandoWeb/blob/main/File%20Upload/Explotaci%C3%B3n%20File%20Upload.md)
+
